@@ -5,13 +5,13 @@ export function render(data) {
       <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>${data.title}</title>
-        <meta name="og:title" content="${data.title}">
+        <title>${data.title}${data.subtitle}</title>
+        <meta name="og:title" content="${data.title}${data.subtitle}">
         <meta name="og:description" content="${data.description}">
         <meta name="og:image" content="https://yamanoku.net/tskaigi-2025/images/slide-01.png">
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="@yamanoku">
-        <meta name="twitter:image:alt" content="${data.title} 2025-05-23 TSKaigi 2025">
+        <meta name="twitter:image:alt" content="${data.title}${data.subtitle} 2025-05-23 TSKaigi 2025">
         <meta property="og:locale" content="${data.lang}">
         <link rel="stylesheet" href="https://cdn.skypack.dev/yama-normalize">
         <script src="https://unpkg.com/@highlightjs/cdn-assets@11.6.0/highlight.min.js"></script>
