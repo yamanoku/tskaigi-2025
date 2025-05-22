@@ -1,0 +1,29 @@
+{
+  "name": "document-page-template",
+  "description": "yamanoku's document page template by 11ty",
+  "type": "module",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "deploy": "gh-pages -d docs -b gh-pages -m 'chore: deploy' -t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamanoku/document-page-template.git"
+  },
+  "author": "yamanoku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yamanoku/document-page-template/issues"
+  },
+  "homepage": "https://github.com/yamanoku/document-page-template#readme",
+  "dependencies": {
+    "@11ty/eleventy": "3.1.0",
+    "budoux": "0.7.0",
+    "markdown-it": "14.1.0",
+    "markdown-it-footnote": "4.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "6.3.0"
+  }
+}
