@@ -21,7 +21,10 @@ export function render(data) {
       </head>
       <body>
         <main id="main">
-          <h1>${this.budoux(data.title)}</h1>
+          <hgroup>
+            <h1 style="margin-block-end: 0">${this.budoux(data.title)}</h1>
+            <p style="font-size: 1.425rem">${this.budoux(data.subtitle)}</p>
+          </hgroup>
           ${data.content}
         </main>
         <footer>
