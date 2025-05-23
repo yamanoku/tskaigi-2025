@@ -1,37 +1,11 @@
-# document-page-template
+# 転生したら​TypeScriptの​Enumだった​件～型​安全性と​エコシステムの​変化で​挫けそうになっているんだが​～
 
-Template for making a document page from a @yamanoku presentation.
+2025年05月23日に開催されたTSKaigi 2025にて登壇しました。このサイトは登壇した内容をテキスト化したものです。
 
-## Install
-```bash
-npm ci
-```
+## SpeakerDeck
 
-## Dev Server
-```bash
-npm run serve
-```
-
-### Japanese Page
-```bash
-http://localhost:8081/ja/
-```
-
-### English Page
-```bash
-http://localhost:8081/en/
-```
-
-## Build
-```bash
-npm run build
-```
-
-## Deploy
-```bash
-npm run deploy
-```
+[転生したら​TypeScriptの​Enumだった​件 ～型​安全性と​エコシステムの​変化で​挫けそうになっているんだが​～ / TSKaigi 2025 - Speaker Deck](https://speakerdeck.com/yamanoku/tskaigi-2025)
 
 ## License
 
-[MIT](./LICENSE)
+[CC BY-NC-SA 4.0](./LICENSE)
