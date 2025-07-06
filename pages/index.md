@@ -29,6 +29,12 @@ lang: ja
 
 </details>
 
+<details>
+  <summary>登壇動画</summary>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/eZV4LXRXP64?si=scKB9qwEB_N5Eyry" title="転生したらTypeScriptのEnumだった件～型安全性とエコシステムの変化で挫けそうになっているんだが～" style="width: 100%; height: 100%; aspect-ratio: 560 / 315;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
+
+
 ![オフィスを背景に、28歳のシステムエンジニア「列挙 純」がチェック柄シャツでにこやかに右手を挙げ、同僚の女性に挨拶している。](./images/slide-02.png)
 
 主人公は「列挙 純」という名前の男性です。彼はシステムエンジニアとして働いていて、主にJavaを使っています。
