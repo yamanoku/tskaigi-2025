@@ -8,8 +8,7 @@ lang: ja
 
 ![発表スライド表紙：転生したらTypeScriptのEnumだった件～型安全性とエコシステムの変化で挫けそうになっているんだが～ 2025-05-23 TSKaigi 2025](./images/slide-01.png)
 
-<details>
-  <summary>発表概要</summary>
+## 発表概要
 
 「…ここは、一体？」
 
@@ -27,7 +26,12 @@ lang: ja
 
 この発表ではTypeScriptにおけるEnumが辿ってきた歴史とその苦境についてを解説していきます。聴者がEnumを使うことを改めて見つめ直すような内容を提供いたします。
 
-</details>
+
+## 登壇動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eZV4LXRXP64?si=scKB9qwEB_N5Eyry" title="転生したらTypeScriptのEnumだった件～型安全性とエコシステムの変化で挫けそうになっているんだが～" style="width: 100%; height: 100%; aspect-ratio: 560 / 315;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## スライド内容
 
 ![オフィスを背景に、28歳のシステムエンジニア「列挙 純」がチェック柄シャツでにこやかに右手を挙げ、同僚の女性に挨拶している。](./images/slide-02.png)
 
